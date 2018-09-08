@@ -1,0 +1,7 @@
+[General]
+
+Title=PixelMixer Basic Set
+Author=pixel-mixer.com
+URL=http://pixel-mixer.com/
+License=Attribution Encouraged
+Iconformat=1

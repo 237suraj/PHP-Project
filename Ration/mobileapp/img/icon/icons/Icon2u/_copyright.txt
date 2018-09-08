@@ -1,0 +1,7 @@
+[General]
+
+Title=Rinoa Icon Free Set
+Author=Creative 9 Design
+URL=http://www.icon2u.com
+URL2=https://www.e-junkie.com/ecom/gb.php?cl=74717&c=ib&aff=83374
+License=License Free

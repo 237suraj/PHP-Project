@@ -1,0 +1,7 @@
+[General]
+
+Title=Crystal Icons
+Author=Everaldo.com
+URL=http://www.everaldo.com/crystal/
+License=LGPL
+Iconformat=1
